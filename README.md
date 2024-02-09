@@ -2,8 +2,8 @@
 Answers about application deadlines, required documents, tuition fees, scholarship opportunities, etc.
 
 ## Requirements
-Language: Python
-Frameworks/Tools: OpenAI's ChatGPT, Pinecone or Weaviate.
+Language: Python  
+Frameworks/Tools: OpenAI's ChatGPT, Pinecone or Weaviate.  
 Skills: Basic Python, REST APIs, JSON, introductory NLP.
 
 ## Approach
