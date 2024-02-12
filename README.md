@@ -1,3 +1,6 @@
+![image](https://github.com/Tashu014/FAQ-Chatbot/assets/87379455/07b34372-7436-4502-8232-5c27d95969fb)
+
+
 # ChatGPT FAQ Bot:
 Answers about application deadlines, required documents, tuition fees, scholarship opportunities, etc.
 
